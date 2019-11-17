@@ -1,10 +1,10 @@
 ---
-slug: '/first-post'
+slug: '/third-post'
 date: '2019-11-17'
-title: 'Our First Post'
+title: 'Our Third Post'
 ---
 
-# Hello
+# LONG AGO
 
 Enough about your promiscuous mother, Hermes! We have bigger problems. Humans dating robots is sick. You people wonder why I'm still single? It's 'cause all the fine robot sisters are dating humans! Ow, my spirit!
 
